@@ -1,7 +1,7 @@
 # 🎥 Top 100 IMDB movies
 Esta é uma aplicação demonstrando os conceitos iniciais estudados em Python 
 
-[Clique aqui para acessar o projeto!]()
+[Clique aqui para acessar o projeto!](https://moviesdb001.streamlit.app/)
 
 # 📚Linguagens e Bibliotecas
 - Linguagens: **Python**
